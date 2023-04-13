@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); 
+
+* { 
+    padding: 0; 
+    margin: 0; 
+    
+} 
+
+body {
+    background-image: url('background.png');
+    background-repeat: no-repeat;
+}
+
+#name {
+    font-family: 'Bebas Neue', cursive; 
+}
+
+#logo { 
+    width: 100px; 
+    border-radius: 27px; 
+} 
+
+#button-t { 
+    width: 350px; 
+    height: 55px; 
+    color:white; 
+    background-color: black; 
+    border-radius: 30px; 
+    font-size: 30px; 
+    font-family: 'Bebas Neue', cursive; 
+    transition: .4s; 
+} 
+
+#button-t:hover { 
+    color: purple; 
+    transition: .4s; 
+} 
+
+#button-y { 
+    width: 350px; 
+    height: 55px; 
+    color:white; 
+    background-color: black; 
+    border-radius: 30px; 
+    font-size: 30px; 
+    font-family: 'Bebas Neue', cursive; 
+    transition: .4s; 
+} 
+
+#button-y:hover { 
+    color: purple; 
+    transition: .4s; 
+}
+
+#button-d { 
+    width: 350px; 
+    height: 55px; 
+    color:white; 
+    background-color: black; 
+    border-radius: 30px; 
+    font-size: 30px; 
+    font-family: 'Bebas Neue', cursive; 
+    transition: .4s; 
+} 
+
+#button-d:hover { 
+    color: purple; 
+    transition: .4s; 
+}
+
+#button-c { 
+    width: 350px; 
+    height: 55px; 
+    color:white; 
+    background-color: black; 
+    border-radius: 30px; 
+    font-size: 30px; 
+    font-family: 'Bebas Neue', cursive; 
+    transition: .4s; 
+} 
+
+#button-c:hover { 
+    color: purple; 
+    transition: .4s; 
+} 
+
